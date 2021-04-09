@@ -1,0 +1,6 @@
+
+const Deletar = (Modelo, Dados)=>{
+
+        
+
+}
